@@ -10,7 +10,7 @@ body {
 
 .navbar {
   position: relative;
-  transition: .5s;
+  transition: 0.5s;
   z-index: 999;
 }
 
@@ -27,8 +27,7 @@ body {
   line-height: 0px;
   font-weight: 700;
   letter-spacing: 2px;
-  transition: .5s;
-  
+  transition: 0.5s;
 }
 
 .navbar .navbar-brand img {
@@ -45,77 +44,73 @@ body {
 
 @media (min-width: 992px) {
   .navbar {
-      position: absolute;
-      width: 100%;
-      padding: 30px 60px;
-      background: transparent !important;
-      border-bottom: 1px dashed rgba(256, 256, 256, .2);
-      z-index: 9;
+    position: absolute;
+    width: 100%;
+    padding: 30px 60px;
+    background: transparent !important;
+    border-bottom: 1px dashed rgba(256, 256, 256, 0.2);
+    z-index: 9;
   }
-  
+
   .navbar.nav-sticky {
-      padding: 10px 60px;
-      background: #665b5b !important;
+    padding: 10px 60px;
+    background: #665b5b !important;
   }
-  
+
   .navbar .navbar-brand {
-      color: #ffffff;
+    color: #ffffff;
   }
-  
+
   .navbar.nav-sticky .navbar-brand {
-      color:#ffffff;
+    color: #ffffff;
   }
 
   .navbar-light .navbar-nav .nav-link,
   .navbar-light .navbar-nav .nav-link:focus {
-      padding: 10px 10px 8px 10px;
-      color: #ffffff;
-      font-size: 15px;
-      font-weight: 500;
+    padding: 10px 10px 8px 10px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
   }
-  
+
   .navbar-light.nav-sticky .navbar-nav .nav-link,
   .navbar-light.nav-sticky .navbar-nav .nav-link:focus {
-      color: #414141;
+    color: #414141;
   }
 
   .navbar-light .navbar-nav .nav-link:hover,
   .navbar-light .navbar-nav .nav-link.active {
-      color: #111111;
+    color: #111111;
   }
-  
+
   .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
   .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-      color: #746d6e;
+    color: #746d6e;
   }
 }
 
-@media (max-width: 991.98px) {   
+@media (max-width: 991.98px) {
   .navbar {
-      padding: 15px;
-      background: #1d1818 !important;
+    padding: 15px;
+    background: #1d1818 !important;
   }
-  
+
   .navbar .navbar-brand {
-      color: #c5bdbf;
+    color: #c5bdbf;
   }
-  
+
   .navbar .navbar-nav {
-      margin-top: 15px;
+    margin-top: 15px;
   }
-  
+
   .navbar a.nav-link {
-      padding: 5px;
+    padding: 5px;
   }
-  
+
   .navbar .dropdown-menu {
-      box-shadow: none;
+    box-shadow: none;
   }
 }
-
-
-
-
 
 .head-1 {
   font-size: 5rem;
@@ -124,8 +119,6 @@ body {
   text-align: left;
   margin: 25% 35% 0% 15%;
 }
-
-
 
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 
@@ -186,6 +179,8 @@ body {
 
 #about {
   background-color: #fff;
+  border-radius: 1%;
+  /* margin: 3%; */
 }
 
 .btn {
@@ -211,6 +206,19 @@ body {
   background: transparent;
   box-shadow: inset 0 0 0 0 #fff;
   border-color: #fff;
+}
+
+.about-me {
+  text-align: center;
+  font-size: 3rem;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.about-me-tag{
+  font-size: 1rem;
+  text-align: center;
+  
 }
 
 /* section {
