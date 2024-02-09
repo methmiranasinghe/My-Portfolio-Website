@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  curtin,
+  visakha,
+  sliit,
+  MIT,
   carrent,
   jobit,
   tripguide,
@@ -112,26 +112,18 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  // {
+  //   name: "python",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
-  {
-    title: "Student",
-    company_name: "Musaeus College",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "Jan 2000 - April 2013",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  
   {
     title: "Student",
     company_name: "Visakha Vidyalaya",
-    icon: tesla,
+    icon: visakha,
     iconBg: "#E6DEDD",
     date: "April 2013 - Dec 2018",
     points: [
@@ -144,7 +136,7 @@ const experiences = [
   {
     title: "BSc. Computer Sciene in Software Engineering Graduate",
     company_name: "Curtin",
-    icon: shopify,
+    icon: curtin,
     iconBg: "#383E56",
     date: "Jan 2020 - Jan 2023",
     points: [
@@ -157,14 +149,24 @@ const experiences = [
   {
     title: "BSc. (Hons) Software Engineering Graduate",
     company_name: "SLIIT",
-    icon: meta,
+    icon:sliit,
+    iconBg: "#E6DEDD",
+    date: "Jan 2023 - 2024",
+    points: [
+     
+    ],
+  },
+  {
+    title: "Software Engineering Intern",
+    company_name: "MIT",
+    icon:MIT,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in code reviews and get constructive feedback to other developers.",
     ],
   },
 ];

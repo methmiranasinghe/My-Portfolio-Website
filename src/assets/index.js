@@ -24,11 +24,14 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import visakha from "./company/visakha.png";
+import sliit from "./company/sliit.png"
+import curtin from "./company//curtin.png"
 import myself from "./myself.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import MIT from "./company/MIT.png"
 
 export {
   logo,
@@ -56,7 +59,10 @@ export {
   meta,
   shopify,
   starbucks,
-  tesla,
+  visakha,
+  MIT,
+  sliit,
+  curtin,
   carrent,
   jobit,
   tripguide,

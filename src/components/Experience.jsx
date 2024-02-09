@@ -7,6 +7,7 @@ import 'react-vertical-timeline-component/style.min.css';
 import {styles} from "../styles";
 import { experiences} from "../constants"
 import { SectionWrapper } from "../hoc";
+import { textVariant } from "../utils/motion";
 
 
 const ExperienceCard = ({ experience}) => (
@@ -49,7 +50,7 @@ const ExperienceCard = ({ experience}) => (
 const Experience = () => {
   return (
     <>
-    <motion.div>
+    <motion.div variants={textVariant()}>
       <p className={styles.sectionSubText}>
         What have I learnt and done before
       </p>
