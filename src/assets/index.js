@@ -26,7 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import visakha from "./company/visakha.png";
 import sliit from "./company/sliit.png"
-import curtin from "./company/curtin.png"
+import curtin from "./company/Curtin.png"
 
 import myself from "./myself.png"
 import carrent from "./carrent.png";
