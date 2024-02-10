@@ -127,10 +127,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "April 2013 - Dec 2018",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I did my G.C.E Ordinay Level in 2015 at Visahka Vidaylaya and got 8A's and 1B.",
+      "I did my G.C.E Advanced Level in 2018 at Visakha Vidyalaya."
     ],
   },
   {
