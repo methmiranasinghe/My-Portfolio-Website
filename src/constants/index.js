@@ -119,7 +119,6 @@ const technologies = [
 ];
 
 const experiences = [
-  
   {
     title: "Student",
     company_name: "Visakha Vidyalaya",
@@ -128,7 +127,7 @@ const experiences = [
     date: "April 2013 - Dec 2018",
     points: [
       "I did my G.C.E Ordinay Level in 2015 at Visahka Vidaylaya and got 8A's and 1B.",
-      "I did my G.C.E Advanced Level in 2018 at Visakha Vidyalaya."
+      "I did my G.C.E Advanced Level in 2018 at Visakha Vidyalaya.",
     ],
   },
   {
@@ -138,33 +137,36 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2020 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Collaborative Development and Leadership Skills.",
+      "Hands-On Project Experience.",
+      "Exposure to Industry Tools and Technologies",
+      "Problem-Solving and Debugging Skills.",
     ],
   },
   {
     title: "BSc. (Hons) Software Engineering Graduate",
     company_name: "SLIIT",
-    icon:sliit,
+    icon: sliit,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - 2024",
     points: [
-     
+      "In-Depth Technical Knowledge",
+      "Hands-On Project Experience",
+      "User-Centered Design and User Experience (UX)",
+      "Agile Methodology and Project Management",
     ],
   },
   {
     title: "Software Engineering Intern",
     company_name: "MIT",
-    icon:MIT,
+    icon: MIT,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining mobile applications using React.js and other related technologies.",
+      "Collaborating with team members to discuss ideas and project requirements.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and get constructive feedback to other developers.",
+      "Participating in code reviews and get constructive feedback from other developers.",
     ],
   },
 ];
