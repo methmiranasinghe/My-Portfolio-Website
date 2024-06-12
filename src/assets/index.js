@@ -30,7 +30,7 @@ import curtin from "./company/Curtin.png"
 
 import myself from "./myself.png"
 import chatbot from "./company/chatbot.png";
-import jobit from "./jobit.png";
+import chatapp from "./chatapp.png";
 import tripguide from "./tripguide.png";
 import MIT from "./company/MIT.png"
 
