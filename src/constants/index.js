@@ -221,7 +221,7 @@ const projects = [
   {
     name: "Movie App",
     description:
-      "Moviezilla redefines the cinematic experience through a meticulously crafted movie application using React Native Expo",
+      "Moviezilla app offers a seamless, user-friendly experience for discovering and browsing movies, categorized for easy navigation, with robust search functionality. Leveraging IMDb API integration, it provides a vast selection of movies, including trending titles and detailed cast information, allowing users to explore films involving their favorite actors. Users can easily access movie details, add movies to their favorites, and enjoy a smooth browsing experience with an intuitive interface designed for effortless movie discovery and enjoyment",
     tags: [
       {
         name: "reactnative",
