@@ -29,7 +29,7 @@ import sliit from "./company/sliit.png"
 import curtin from "./company/Curtin.png"
 
 import myself from "./myself.png"
-import carrent from "./carrent.png";
+import chatbot from "./company/chatbot.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import MIT from "./company/MIT.png"
@@ -64,7 +64,7 @@ export {
   MIT,
   sliit,
   curtin,
-  carrent,
+  chatbot,
   jobit,
   tripguide,
 };

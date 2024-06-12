@@ -19,7 +19,7 @@ import {
   visakha,
   sliit,
   MIT,
-  carrent,
+  chatbot,
   jobit,
   tripguide,
   threejs,
@@ -217,7 +217,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: chatbot,
     source_code_link: "https://github.com/methmiranasinghe/Chatzie",
   },
   {
