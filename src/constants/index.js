@@ -196,7 +196,7 @@ const projects = [
   {
     name: "Chat Bot",
     description:
-      "Intelligent Chatbot project aims to create a user-friendly conversational interface that instantly and efficiently answers user queries and resolves problems by leveraging Bard API for real-time web integration. This chatbot will utilize advanced Natural Language Processing (NLP) techniques to understand and respond to questions, fetching relevant web resources and providing detailed explanations within seconds. Designed for multi-platform accessibility, it ensures accurate, contextually relevant responses and resource suggestions, enhancing user experience through quick and reliable problem-solving capabilities.",
+      "Intelligent Chatbot project aims to create a user-friendly conversational interface that instantly and efficiently answers user queries and resolves problems by leveraging Bard API for real-time web integration. This chatbot will utilize advanced Natural Language Processing (NLP) techniques to understand and respond to questions, fetching relevant web resources and providing detailed explanations within seconds.",
     tags: [
       {
         name: "html",
