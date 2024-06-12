@@ -25,14 +25,14 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import visakha from "./company/visakha.png";
-import sliit from "./company/sliit.png"
-import curtin from "./company/Curtin.png"
+import sliit from "./company/sliit.png";
+import curtin from "./company/Curtin.png";
 
-import myself from "./myself.png"
+import myself from "./myself.png";
 import chatbot from "./company/chatbot.png";
 import chatapp from "./chatapp.png";
-import movieapp from "./movieapp.jpg";
-import MIT from "./company/MIT.png"
+import carrent from "./carrent.png";
+import MIT from "./company/MIT.png";
 
 export {
   logo,
@@ -66,5 +66,5 @@ export {
   curtin,
   chatbot,
   chatapp,
-  movieapp,
+  carrent,
 };
