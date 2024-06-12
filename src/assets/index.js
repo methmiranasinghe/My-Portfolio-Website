@@ -31,7 +31,7 @@ import curtin from "./company/Curtin.png";
 import myself from "./myself.png";
 import chatbot from "./company/chatbot.png";
 import chatapp from "./chatapp.png";
-import carrent from "./company/carrent.png";
+import movieapp from "./company/movieapp.png";
 import MIT from "./company/MIT.png";
 
 export {
@@ -66,5 +66,5 @@ export {
   curtin,
   chatbot,
   chatapp,
-  carrent,
+  movieapp,
 };

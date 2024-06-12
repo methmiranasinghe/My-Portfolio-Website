@@ -21,7 +21,7 @@ import {
   MIT,
   chatbot,
   chatapp,
-  carrent,
+  movieapp,
   threejs,
 } from "../assets";
 
@@ -171,8 +171,6 @@ const experiences = [
   },
 ];
 
-
-
 const projects = [
   {
     name: "Chatzie",
@@ -238,7 +236,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: movieapp,
     source_code_link: "https://github.com/methmiranasinghe/Movie-App",
   },
 ];
