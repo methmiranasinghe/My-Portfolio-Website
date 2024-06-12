@@ -21,7 +21,7 @@ import {
   MIT,
   chatbot,
   chatapp,
-  tripguide,
+  carrent,
   threejs,
 } from "../assets";
 
@@ -177,7 +177,7 @@ const projects = [
   {
     name: "Chatzie",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This project focuses on developing a real-time chat application that streamlines communication. Users can exchange text messages directly, with a  convenient feature that displays a user's online status in real-time. This eliminates the frustration of sending messages to inactive users. Additionally, the app  incorporates a user discovery function, enabling you to find  who's currently online and available to chat, fostering connections and promoting real-time interaction.",
     tags: [
       {
         name: "react",
@@ -198,7 +198,7 @@ const projects = [
   {
     name: "Chat Bot",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Intelligent Chatbot project aims to create a user-friendly conversational interface that instantly and efficiently answers user queries and resolves problems by leveraging Bard API for real-time web integration. This chatbot will utilize advanced Natural Language Processing (NLP) techniques to understand and respond to questions, fetching relevant web resources and providing detailed explanations within seconds. Designed for multi-platform accessibility, it ensures accurate, contextually relevant responses and resource suggestions, enhancing user experience through quick and reliable problem-solving capabilities.",
     tags: [
       {
         name: "html",
@@ -238,7 +238,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: carrent,
     source_code_link: "https://github.com/methmiranasinghe/Movie-App",
   },
 ];
