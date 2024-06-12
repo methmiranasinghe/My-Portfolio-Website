@@ -65,6 +65,6 @@ export {
   sliit,
   curtin,
   chatbot,
-  jobit,
+  chatapp,
   tripguide,
 };
